@@ -45,6 +45,43 @@
 **In addition** to WizardAmigos lessons, we recommend you to check out the following resources:
 
 ---
+# :candy::candy::candy::candy::candy: P2P (PEER-TO-PEER) WEB :candy::candy::candy::candy::candy:
+
+### P2P
+| **Title** | **Level** |
+|:-----|:-----:|  
+|[Working offline as a JavaScript developer](https://github.com/wizardamigos/app/blob/master/curriculum/newLessons/workingOffline.md)| intermediate |
+|[NodeUp Podcast](http://nodeup.com/sixtynine)| intermediate |
+|[Mesh networking](https://www.youtube.com/watch?v=tYLU755T6_I)| advanced |
+|[How to build a P2P Photos app](https://medium.com/blue-link-labs/building-a-decentralized-peer-to-peer-photos-app-with-beaker-and-dat-c8a470202b4c)|intermediate|
+| [Host outside of Beaker](https://beakerbrowser.com/docs/tutorials/host-outside-of-beaker.html) | intermediate |
+| [Create a markdown site](https://beakerbrowser.com/docs/tutorials/create-a-markdown-site.html) | intermediate |
+| [Share files secretly](https://beakerbrowser.com/docs/tutorials/share-files-secretly.html) | intermediate |
+| [Publish software securely](https://beakerbrowser.com/docs/tutorials/publish-software-securely.html) | intermediate |
+| [Web APIs by example](https://beakerbrowser.com/docs/apis/by-example.html) | intermediate |
+| [Read files using DatArchive API](https://beakerbrowser.com/docs/tutorials/read-site-files.html) | intermediate |
+| [Write files using DatArchive API](https://beakerbrowser.com/docs/tutorials/write-site-files.html) | intermediate |
+| [Diff, commit, revert with DatArchive API](https://beakerbrowser.com/docs/tutorials/diff-commit-revert.html) | intermediate |
+| [Listen for file changes with DatArchive API](https://beakerbrowser.com/docs/tutorials/listen-for-file-changes.html) | intermediate | 
+| [Create or fork a site with DatArchive API](https://beakerbrowser.com/docs/tutorials/create-or-fork-a-site.html) | intermediate |
+
+### PROTOCOLES
+| **Title** | **Level** |
+|:-----|:-----:|
+|[DAT](https://github.com/datproject/docs/blob/master/papers/dat-paper.pdf)| advanced |
+|[Scuttlebutt](https://github.com/ssbc/scuttlebot)| advanced |
+
+### P2P DATA STRUCTURES
+| **Title** | **Level** |
+|:-----|:-----:|
+|[Epidemic Broadcast Trees](https://gist.github.com/ninabreznik/d911e36f3171bc4eb8e14cee2ae76d6e)| advanced |
+
+### SMART CONTRACTS
+| **Title** | **Level** |
+|:-----|:-----:|
+|[Node VMS](https://nodevms.com/tutorial/)| advanced |
+
+---
 
 # :candy::candy::candy::candy::candy: JAVASCRIPT :candy::candy::candy::candy::candy:
 
@@ -489,34 +526,6 @@
 |:-----|:-----:|
 |[Unix & Command Line - video](https://www.youtube.com/watch?v=BhPRiSLmxis)| intermediate |
 |[Unix & Command Line - notes](https://github.com/cyberwizardinstitute/workshops/blob/master/unix.markdown)| intermediate |
-
----
-
-# :candy::candy::candy::candy::candy: P2P (PEER-TO-PEER) WEB :candy::candy::candy::candy::candy:
-
-### P2P
-| **Title** | **Level** |
-|:-----|:-----:|  
-|[Working offline as a JavaScript developer](https://github.com/wizardamigos/app/blob/master/curriculum/newLessons/workingOffline.md)| intermediate |
-|[NodeUp Podcast](http://nodeup.com/sixtynine)| intermediate |
-|[Mesh networking](https://www.youtube.com/watch?v=tYLU755T6_I)| advanced |
-
-### PROTOCOLES
-| **Title** | **Level** |
-|:-----|:-----:|
-|[DAT](https://github.com/datproject/docs/blob/master/papers/dat-paper.pdf)| advanced |
-|[Scuttlebutt](https://github.com/ssbc/scuttlebot)| advanced |
-
-### P2P DATA STRUCTURES
-| **Title** | **Level** |
-|:-----|:-----:|
-|[Epidemic Broadcast Trees](https://gist.github.com/ninabreznik/d911e36f3171bc4eb8e14cee2ae76d6e)| advanced |
-
-### SMART CONTRACTS
-| **Title** | **Level** |
-|:-----|:-----:|
-|[Node VMS](https://nodevms.com/tutorial/)| advanced |
-
 
 ---
 # :candy::candy::candy::candy::candy: PROGRAMMING CONCEPTS :candy::candy::candy::candy::candy:
