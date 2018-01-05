@@ -53,6 +53,7 @@
 |[Working offline as a JavaScript developer](https://github.com/wizardamigos/app/blob/master/curriculum/newLessons/workingOffline.md)| intermediate |
 |[NodeUp Podcast](http://nodeup.com/sixtynine)| intermediate |
 |[Mesh networking](https://www.youtube.com/watch?v=tYLU755T6_I)| advanced |
+[P2P social networking](https://louis.center/p2p-social-networking/) | advanced |
 |[How to build a P2P Photos app](https://medium.com/blue-link-labs/building-a-decentralized-peer-to-peer-photos-app-with-beaker-and-dat-c8a470202b4c)|intermediate|
 | [Host outside of Beaker](https://beakerbrowser.com/docs/tutorials/host-outside-of-beaker.html) | intermediate |
 | [Create a markdown site](https://beakerbrowser.com/docs/tutorials/create-a-markdown-site.html) | intermediate |
