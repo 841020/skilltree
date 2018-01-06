@@ -91,11 +91,6 @@
 |:-----|:-----:|
 |[Epidemic Broadcast Trees](https://gist.github.com/ninabreznik/d911e36f3171bc4eb8e14cee2ae76d6e)| advanced |
 
-### Ethereum
-| **Title** | **Level** |
-|:-----|:-----:|
-|[Node VMS](https://nodevms.com/tutorial/)| advanced |
-
 ### SMART CONTRACTS (ethereum based)
 | **Title** | **Level** |
 |:-----|:-----:|
