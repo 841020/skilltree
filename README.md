@@ -541,7 +541,7 @@
 | **Title** | **Level** |
 |:-----|:-----:|
 |[Notes on Git and Github](https://github.com/cyberwizardinstitute/workshops/blob/master/git.markdown)| intermediate |
-|[Git-it tutoriar](http://jlord.us/git-it/challenges/get_git.html)| intermediate |
+|[Git-it tutorial](http://jlord.us/git-it/challenges/get_git.html)| intermediate |
 
 ---
 
