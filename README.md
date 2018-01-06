@@ -66,21 +66,40 @@
 | [Listen for file changes with DatArchive API](https://beakerbrowser.com/docs/tutorials/listen-for-file-changes.html) | intermediate | 
 | [Create or fork a site with DatArchive API](https://beakerbrowser.com/docs/tutorials/create-or-fork-a-site.html) | intermediate |
 
-### PROTOCOLES
+### DAT
 | **Title** | **Level** |
 |:-----|:-----:|
 |[DAT](https://github.com/datproject/docs/blob/master/papers/dat-paper.pdf)| advanced |
-|[Scuttlebutt](https://github.com/ssbc/scuttlebot)| advanced |
+
+#### SMART CONTRACTS (dat based)
+| **Title** | **Level** |
+|:-----|:-----:|
+|[Node VMS](https://nodevms.com/tutorial/)| advanced |
+
+### SSB
+| **Title** | **Level** |
+|:-----|:-----:|
+|[Intro](https://coolguy.website/writing/the-future-will-be-technical/index.html)| easy |
+|[Scuttlebutt](https://www.scuttlebutt.nz/guides/cli-first-steps.html)| intermediate |
+|[Guide](https://github.com/nichoth/ssb-survival-guide) | advanced |
+|[Scuttlebot](https://github.com/ssbc/scuttlebot)| advanced |
+|[Scuttlebot Docs](https://scuttlebot.io) | advanced |
+
 
 ### P2P DATA STRUCTURES
 | **Title** | **Level** |
 |:-----|:-----:|
 |[Epidemic Broadcast Trees](https://gist.github.com/ninabreznik/d911e36f3171bc4eb8e14cee2ae76d6e)| advanced |
 
-### SMART CONTRACTS
+### Ethereum
 | **Title** | **Level** |
 |:-----|:-----:|
 |[Node VMS](https://nodevms.com/tutorial/)| advanced |
+
+### SMART CONTRACTS (ethereum based)
+| **Title** | **Level** |
+|:-----|:-----:|
+
 
 ---
 
