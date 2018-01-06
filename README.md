@@ -79,7 +79,7 @@
 ### SSB
 | **Title** | **Level** |
 |:-----|:-----:|
-|[Intro](https://coolguy.website/writing/the-future-will-be-technical/index.html)| easy |
+|[Intro](https://coolguy.website/writing/the-future-will-be-technical/index.html)| beginner |
 |[Scuttlebutt](https://www.scuttlebutt.nz/guides/cli-first-steps.html)| intermediate |
 |[Guide](https://github.com/nichoth/ssb-survival-guide) | advanced |
 |[Scuttlebot](https://github.com/ssbc/scuttlebot)| advanced |
@@ -99,6 +99,12 @@
 ### SMART CONTRACTS (ethereum based)
 | **Title** | **Level** |
 |:-----|:-----:|
+| [Cryptozombie Tutorial](https://cryptozombies.io/) | beginner |
+| [MetaMask Browser Wallet](https://metamask.io) | beginner |
+| [ERC20 Token](https://www.youtube.com/watch?v=JHrQ3l2tT78) | Intermediate |
+| [Smart Contracts in Remix](https://coursetro.com/courses/20/Developing-Ethereum-Smart-Contracts-for-Beginners) | Intermediate |
+| [web3 JavaScript](http://web3js.readthedocs.io/en/1.0/) | advanced |
+| [Remix IDE Docs](http://remix.readthedocs.io/en/latest/) | advanced |
 
 
 ---
