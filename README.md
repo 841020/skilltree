@@ -96,6 +96,7 @@
 |:-----|:-----:|
 | [Cryptozombie Tutorial](https://cryptozombies.io/) | beginner |
 | [MetaMask Browser Wallet](https://metamask.io) | beginner |
+| [testnet & testether](https://www.youtube.com/watch?v=qdDcXLxbxK0&feature=youtu.be&t=430) | intermediate |
 | [ERC20 Token](https://www.youtube.com/watch?v=JHrQ3l2tT78) | Intermediate |
 | [Smart Contracts in Remix](https://coursetro.com/courses/20/Developing-Ethereum-Smart-Contracts-for-Beginners) | Intermediate |
 | [web3 JavaScript](http://web3js.readthedocs.io/en/1.0/) | advanced |
