@@ -101,7 +101,7 @@
 | [Smart Contracts in Remix](https://coursetro.com/courses/20/Developing-Ethereum-Smart-Contracts-for-Beginners) | Intermediate |
 | [web3 JavaScript](http://web3js.readthedocs.io/en/1.0/) | advanced |
 | [Remix IDE Docs](http://remix.readthedocs.io/en/latest/) | advanced |
-
+| [Ethereum dev wiki](https://github.com/ethereum/wiki/wiki) | advanced |
 
 ---
 
