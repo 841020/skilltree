@@ -55,6 +55,7 @@
 |[Mesh networking](https://www.youtube.com/watch?v=tYLU755T6_I)| advanced |
 [P2P social networking](https://louis.center/p2p-social-networking/) | advanced |
 |[How to build a P2P Photos app](https://medium.com/blue-link-labs/building-a-decentralized-peer-to-peer-photos-app-with-beaker-and-dat-c8a470202b4c)|intermediate|
+| [Introduction to Beaker Browser](https://www.youtube.com/watch?time_continue=10&v=U2B9mwRFE8U) | beginner |
 | [Host outside of Beaker](https://beakerbrowser.com/docs/tutorials/host-outside-of-beaker.html) | intermediate |
 | [Create a markdown site](https://beakerbrowser.com/docs/tutorials/create-a-markdown-site.html) | intermediate |
 | [Share files secretly](https://beakerbrowser.com/docs/tutorials/share-files-secretly.html) | intermediate |
