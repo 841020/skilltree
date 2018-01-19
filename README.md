@@ -7,8 +7,8 @@
 ### Video Lessons & Exercises
 |**Title**| **Level** |
 |:-----| :-----: |
-|[WizardAmigos JavaScript eLearning app (video lessons with support chat)](http://wizardamigos.com/workshop_app/)| basic |
-|[Build your Portfolio Page with yo and csjs](https://www.youtube.com/playlist?list=PLbtP2pUMT_hvANJ-b49tp88sOkVLSOkcq)| intermediate |
+|[Build your Portfolio Page with yo and csjs](https://ninabreznik.github.io/workshop_app/|basic|
+|[WizardAmigos JavaScript eLearning app (video lessons with support chat)](http://wizardamigos.com/workshop_app/)| intermediate |
 |[Build a simple Quiz with Firebase](https://www.youtube.com/playlist?list=PLbtP2pUMT_huBADZzKcjJ70x9DBCJzpEN)| intermediate |
 
 ---
