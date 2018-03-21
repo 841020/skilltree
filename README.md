@@ -4,6 +4,9 @@
 
 ## Lessons & Exercises
 
+### How to learn and share the knowledge on your journey
+https://github.com/wizardamigos/skilltree/issues/3
+
 ### Video Lessons & Exercises
 |**Title**| **Level** |
 |:-----| :-----: |
