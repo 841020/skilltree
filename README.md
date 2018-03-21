@@ -5,7 +5,8 @@
 ## Lessons & Exercises
 
 ### How to learn and share the knowledge on your journey
-https://github.com/wizardamigos/skilltree/issues/3
+We highly recommend to take a moment and familiarize yourself with the method we recommend from our personal experience of years of learning and teaching :-)  
+**methodology:** https://github.com/wizardamigos/skilltree/issues/3
 
 ### Video Lessons & Exercises
 |**Title**| **Level** |
