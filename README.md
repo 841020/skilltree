@@ -293,6 +293,11 @@ We highly recommend to take a moment and familiarize yourself with the method we
 |[Javascripting tutorial](https://github.com/workshopper/javascripting)| basic |
 |[Bing/Call/Apply](https://www.hacksparrow.com/javascript-bind-vs-apply-and-call.html)| intermediate |
 
+### ASYNC
+|**Title**|**Level**|
+|:----|:----|
+|[Callbacks, Promises and more](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance)| intermediate|
+
 ### SCOPE
 | **Title** | **Level** |
 |:-----|:-----:|
